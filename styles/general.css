@@ -233,13 +233,13 @@ button:hover{
 
 
 footer{
-    background-color: #b6b6b6;
+    background-color: #eaeaea;
 }
 
 footer p{
     margin: 0;
     padding: 12px;
-    color: #373737;
+    color: #909090;
 }
 
 footer .container{
