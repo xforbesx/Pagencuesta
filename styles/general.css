@@ -66,7 +66,10 @@ button:hover{
     justify-content: center;
     align-items: center;
     position: relative;
+    text-decoration: none;
 }
+
+
 
 .video-container, iframe{
     margin-bottom: 20px;
@@ -101,6 +104,11 @@ button:hover{
     justify-content: flex-start; /* Alinea el contenido en la parte superior */
     height: 100%;
     
+}
+
+.container a{
+    text-decoration: none;
+    color: #f6f6f6;
 }
 
 #objetivo .container{
@@ -230,7 +238,10 @@ button:hover{
 
 .swiper-button-prev{ 
     left:0;}
-
+.encuesta{
+    border-radius: 1%;
+    background-color: #eaeaea;
+}
 
 footer{
     background-color: #eaeaea;
@@ -270,6 +281,10 @@ footer .logos{
         width: 700px;
         height: 650;
     }
+
+    
+
+
 
 }
 
